@@ -1,0 +1,125 @@
+{
+  "name": "arif",
+  "position": "software engineer",
+  "about": "<p>Hi, I'm Arif, and was born in Indonesia. I'm always curious, especially about technology. I will learn every details of things that interest me, until one day, coding became my hobby, yes I really love Coding <span role='img' aria-label='Coding'>👨🏼‍💻</span></p><p>I always keep update about technology, and sometimes when new technology came out, I implement that into my work, yes I love bleeding edge technology <span role='img' aria-label='Coding'>🤖</span></p><p>Technology was become part of my life. With passionate, creative, enthuastic and always try to learn, i like create products really quallify and unique</p>",
+  "profile_picture": "https://ahmadarifmaulana.xyz/img/Arif.png",
+  "cv_link": "https://arif-maulana-cv.firebaseapp.com",
+  "portfolios": [
+    {
+      "id": 1,
+      "name": "cokro pondasi",
+      "category": "website, web design",
+      "logo": "https://ahmadarifmaulana.xyz/img/cokro-pondasi.png",
+      "content": "<p>Cokro Pondasi is a bore pile contractor company, located in Tangerang Selatan, Indonesia. Currently PT. Cokro Pondasi serve various foundation work with bore pile system for office project, hotel, shop, housing, shopping centers, and so forth throughout Indonesia.</p>",
+      "link": "https://cokropondasi.com"
+    },
+    {
+      "id": 2,
+      "name": "ydigital asia",
+      "category": "website",
+      "logo": "https://ahmadarifmaulana.xyz/img/ydigital.png",
+      "content": "<p>Ydigital Asia is a digital marketing agency in Jakarta who helps transform brand from thinking digital to being digital. All in the name of driving business performance. they have some services like Strategy & Consulting, Technology & Operations, and Marketing & Sales.</p>",
+      "link": "https://ydigital.asia"
+    },
+    {
+      "id": 3,
+      "name": "ActionCOACH South Jakarta",
+      "category": "website",
+      "logo": "https://ahmadarifmaulana.xyz/img/actioncoach.png",
+      "content": "<p>ActionCOACH is a business coach located at South Jakarta, Indonesia. They will be an objective personal business mentor and also helps their clients to be more efficient, gives small pointers based on years of experience and support in developing long-term plans in order to get more profit for business.</p>",
+      "link": "http://actioncoachsouthjakarta.com"
+    },
+    {
+      "id": 4,
+      "name": "Thomas & Friends Playguide",
+      "category": "microsite",
+      "logo": "https://ahmadarifmaulana.xyz/img/thomas.png",
+      "content": "<p>ActionCOACH is a business coach located at South Jakarta, Indonesia. They will be an objective personal business mentor and also helps their clients to be more efficient, gives small pointers based on years of experience and support in developing long-term plans in order to get more profit for business.</p>",
+      "link": "https://thomas-playground.herokuapp.com"
+    },
+    {
+      "id": 5,
+      "name": "Next Barbers Center",
+      "category": "website, web design",
+      "logo": "https://ahmadarifmaulana.xyz/img/nbc.png",
+      "content": "<p>ActionCOACH is a business coach located at South Jakarta, Indonesia. They will be an objective personal business mentor and also helps their clients to be more efficient, gives small pointers based on years of experience and support in developing long-term plans in order to get more profit for business.</p>",
+      "link": "https://nextbarberscenter.com/"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "logo": "https://ahmadarifmaulana.xyz/img/react.png",
+      "content": "<p><strong>ReactJS - </strong>Simply because I love Single Page Application, also I do mobile application using <strong>React Native</strong></p>"
+    },
+    {
+      "id": 2,
+      "logo": "https://ahmadarifmaulana.xyz/img/javascript.png",
+      "content": "<p><strong>JavaScript - </strong>With JavaScript I can create almost everything, desktop app, mobile app</p>"
+    },
+    {
+      "id": 3,
+      "logo": "https://ahmadarifmaulana.xyz/img/css3.png",
+      "content": "<p><strong>CSS3 - </strong>I feels uncomfortable with unstyled website</p>"
+    },
+    {
+      "id": 4,
+      "logo": "https://ahmadarifmaulana.xyz/img/nodejs.png",
+      "content": "<p><strong>NodeJS - </strong>I learn it simply because it's JavaScript running on server</p>"
+    },
+    {
+      "id": 5,
+      "logo": "https://ahmadarifmaulana.xyz/img/GraphQL.png",
+      "content": "<p><strong>GraphQL - </strong>I hate over fetching from API</p>"
+    },
+    {
+      "id": 6,
+      "logo": "https://ahmadarifmaulana.xyz/img/docker.png",
+      "content": "<p><strong>Docker - </strong>Made my shipping time to production faster</p>"
+    },
+    {
+      "id": 7,
+      "logo": "https://ahmadarifmaulana.xyz/img/wordpress.png",
+      "content": "<p><strong>Wordpress - </strong>I dont't write PHP code, but I write themes</p>"
+    },
+    {
+      "id": 8,
+      "logo": "https://ahmadarifmaulana.xyz/img/mongo.png",
+      "content": "<p><strong>MongoDB - </strong>When talk about NoSQL, I choose MongoDB</p>"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Syaiful Fahmi",
+      "position": "Graphic Designer",
+      "content": "I am satisfied with the website I requested. The results so smooth. Highly recommended for everyone who wants to create own website"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "logo": "https://ahmadarifmaulana.xyz/img/cokro-pondasi.png"
+    },
+    {
+      "id": 2,
+      "logo": "https://ahmadarifmaulana.xyz/img/nbc.png"
+    },
+    {
+      "id": 3,
+      "logo": "https://ahmadarifmaulana.xyz/img/kemenkeu.png"
+    },
+    {
+      "id": 4,
+      "logo": "https://ahmadarifmaulana.xyz/img/aqiqah.png"
+    }
+  ],
+  "contacts": {
+    "email": "maulanaahmdarif@gmail.com",
+    "phone": "+6281212212700"
+  },
+  "social_media": {
+    "github": "https://github.com/maulanaahmadarif",
+    "instagram": "https://www.instagram.com/maulana__arif/?hl=en"
+  }
+}

@@ -1,0 +1,22 @@
+body {
+  font-family: 'Fira Sans Condensed', sans-serif;
+  color: $textColorBlack;
+  line-height: 1.5;
+}
+
+a {
+  color: $textColorBlack;
+
+  &:hover {
+    text-decoration: none;
+    color: $textColorBlack;
+  }
+}
+
+img {
+  max-width: 100% !important;
+}
+
+h1 {
+  line-height: 1.2;
+}

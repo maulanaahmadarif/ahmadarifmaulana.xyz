@@ -1,0 +1,21 @@
+img.am-image-gray {
+  filter: grayscale(1);
+  transition: filter .3s ease-in;
+
+  &:hover {
+    filter: grayscale(0);
+  }
+}
+
+.am-frame {
+  max-width: 160px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.am-skill-box {
+  margin: 1em 0;
+  .am-frame {
+    max-width: 50px;
+  }
+}

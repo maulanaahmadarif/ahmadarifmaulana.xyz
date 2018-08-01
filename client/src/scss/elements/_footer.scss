@@ -1,0 +1,25 @@
+footer {
+  padding: 1em 0;
+  background-color: #fff;
+  font-size: 14px;
+}
+
+.am-contact {
+  text-align: right;
+  > span {
+    margin-left: 1em;
+  }
+}
+
+@media (max-width: 768px) {
+  .am-copyright {
+    text-align: center;
+  }
+  .am-contact {
+    text-align: center;
+    margin-bottom: 1em;
+    span {
+      display: block;
+    }
+  }
+}
